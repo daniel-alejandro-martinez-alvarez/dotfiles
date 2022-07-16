@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daniel.martinez@frubana.com
+	name = Daniel Alejandro Martinez Alvarez
